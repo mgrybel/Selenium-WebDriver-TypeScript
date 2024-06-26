@@ -29,3 +29,5 @@ Inside the ZIP file, you will find the **EcommerceWebsiteTestPlan.jmx** file, wh
 1. Open JMeter, and from the top menu, select **File** and then select **Open**.
 2. In the Open window, select the **EcommerceWebsiteTestPlan.jmx** file that you have just downloaded, and click **Open**.
 3. From the top menu, select **Run** and then select **Start**.
+
+![plot](https://github.com/mgrybel/performance-testing-jmeter/blob/master/images/run.png?raw=true)
