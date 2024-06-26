@@ -23,3 +23,9 @@ To run tests in this project, you must first install and run the SUT. Follow [th
 Download the ZIP file and unzip the project.
 
 Inside the ZIP file, you will find the **EcommerceWebsiteTestPlan.jmx** file, which is a JMeter test plan describing a series of steps JMeter will execute when run.
+
+## Run tests
+
+1. Open JMeter, and from the top menu, select **File** and then select **Open**.
+2. In the Open window, select the **EcommerceWebsiteTestPlan.jmx** file that you have just downloaded, and click **Open**.
+3. From the top menu, select **Run** and then select **Start**.
