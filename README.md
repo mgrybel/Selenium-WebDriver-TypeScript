@@ -2,6 +2,13 @@
 
 Automated performance tests of an e-commerce application built using **Apache JMeter**.
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [System Under Test (SUT)](#system-under-test-sut)
+- [Download the project](#download-the-project)
+- [Run tests](#run-tests)
+  
 ## Prerequisites
 
 Install the following prerequisites:
